@@ -30,8 +30,8 @@ public class PlatformView extends SurfaceView
 
     // Our new engine classes
     private LevelManager lm;
-    private Viewport vp;
-    InputController ic;
+    //private Viewport vp;
+    //InputController ic;
 
     PlatformView(Context context, int screenWidth,
 		 int screenHeight) {
