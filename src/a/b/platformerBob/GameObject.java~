@@ -1,0 +1,9 @@
+package a.b.platformerBob;
+
+import android.content.Context;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+
+
+public class GameObject{
+}
