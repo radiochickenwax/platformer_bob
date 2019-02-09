@@ -42,6 +42,9 @@ public class PlatformView extends SurfaceView
 	// Initialize our drawing objects
 	ourHolder = getHolder();
 	paint = new Paint();
+
+	// Initialize the viewport
+	vp = new Viewport(screenWidth, screenHeight);
     }
 
     @Override
